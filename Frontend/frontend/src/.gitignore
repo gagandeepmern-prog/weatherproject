@@ -1,0 +1,13 @@
+# Node dependencies
+node_modules/
+
+# Build files
+build/
+dist/
+
+# Environment variables
+.env
+
+# OS & Editor specific
+.DS_Store
+.history/
